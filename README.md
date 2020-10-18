@@ -1,4 +1,4 @@
-# Hi there, I am Ruzan <img src="https://i.pinimg.com/originals/ca/d7/40/cad7401aaaf15e234a0461e02b51f74c.gif" height="70" width="70">
+# Hi there, I am Ruzan <img src="https://i.pinimg.com/originals/ca/d7/40/cad7401aaaf15e234a0461e02b51f74c.gif" height="90" width="90">
 
 <!--
 **Ruzzan/ruzzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
