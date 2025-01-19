@@ -8,6 +8,6 @@ I love learning new technologies and building stuffs recently enjoying contribut
 - :dart: I’m currently learning React :electron:.
 
 ## How to reach me
-:sunglasses: You can visit my [Portfolio](https://ruzzan.github.io) for more :handshake:.</br>
+:sunglasses: You can visit my [Portfolio](https://rujantandukar.com.np/) for more :handshake:.</br>
 
 ![Ruzan's Github Stats](https://github-readme-stats.vercel.app/api?username=ruzzan&count_private=true&show_icons=true&theme=dark)
